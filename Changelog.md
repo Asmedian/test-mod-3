@@ -1,5 +1,5 @@
-### 15.03.2024
-##### **Version 2.96**
+**15.03.2024**
+### Version 2.96
 
 #### ERA:
 - Updated to version 3.9.11 - thanks to Berserker;
