@@ -190,15 +190,15 @@ Neutrals:
 
 3. Creature Specialization
 
-    Heroes who specialize in creatures have the following scaling:
+Heroes who specialize in creatures have the following scaling:
 
-    Attack/Defense: +1 Att/Def for every 7 hero levels
-    Damage: HeroLvl:Value(based on creature level)
-    Health: 9%+1*HeroLvL 
-    
-    This bonus is added to the creatures only in combat! The normal Heroes3 mechanic (+1 Speed and +Att/Def after each x-level) still works and can be seen directly on your creature in the hero screen.
-    You will find this scaling much fairer then the busted WoG script, where each creature ended with +50 Att/Def after enough hero levels. 
-    If you are no fan of this script you can just delete the "Creature Specialisation Third Upgrade Mod" and "81 wog - disable options" erm file in the Data/s folder. 
+Attack/Defense: +1 Att/Def for every 7 hero levels
+Damage: HeroLvl:Value(based on creature level)
+Health: 9%+1*HeroLvL 
+
+This bonus is added to the creatures only in combat! The normal Heroes3 mechanic (+1 Speed and +Att/Def after each x-level) still works and can be seen directly on your creature in the hero screen.
+You will find this scaling much fairer then the busted WoG script, where each creature ended with +50 Att/Def after enough hero levels. 
+If you are no fan of this script you can just delete the "Creature Specialisation Third Upgrade Mod" and "81 wog - disable options" erm file in the Data/s folder. 
 
 4. Necromancy
 
